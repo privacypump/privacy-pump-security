@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-security",
+  "description": "Security policies, public threat models, audit status, supported versions, and coordinated disclosure guidance for Privacy Pump.",
+  "maturity": "Public security documentation",
+  "network": "All documented environments",
+  "topics": ["privacy-pump", "security", "solana", "privacy", "cryptography"],
+  "visibility": "public-after-verification"
+}
